@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Combat Simplifier</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="button_play">Play</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Dungeons &amp; Dragons Combat Simplifier</string>
+    <string name="random_heading">Here is a random number between 0 and %d.</string>
+    <string name="button_create_player">Create Player</string>
+    <string name="button_create_enemy">Create Enemy</string>
+    <string name="enemies_created">0</string>
+</resources>
